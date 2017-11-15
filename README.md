@@ -1,3 +1,3 @@
 
 
-[Link](./Lab1/README.MD)
+[Link](./Lab1)
